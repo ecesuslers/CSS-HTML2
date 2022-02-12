@@ -1,0 +1,24 @@
+#example1 {
+  background: url(YOGA.jpeg) center;
+  padding: 15px;
+}
+
+p1 {
+  font-family: "cursive";
+}
+body,
+html {
+  height: 100%;
+  font-family: "Inconsolata", sans-serif;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  background-image: ("YOGA.jpg");
+  min-height: 75%;
+}
+
+.menu {
+  display: none;
+}
